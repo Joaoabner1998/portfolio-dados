@@ -1,0 +1,31 @@
+ID,Nome,Departamento,Cargo,Data_Admissao,Data_Desligamento,Salario,Cidade,Status,Avaliacao_Desempenho
+1,Ana Souza,Tecnologia,Analista de Dados,2022-03-14,,5200,Sao Paulo,Ativo,4
+2,Carlos Lima,Comercial,Vendedor,2021-08-10,,3500,Maua,Ativo,4
+3,Bruno Alves,Financeiro,Analista Financeiro,2020-05-20,2025-02-10,4800,Santo Andre,Desligado,3
+4,Mariana Costa,RH,Analista de RH,2023-01-09,,4200,Sao Paulo,Ativo,5
+5,Lucas Martins,Tecnologia,Desenvolvedor,2021-11-16,,6500,Sao Bernardo,Ativo,4
+6,Fernanda Rocha,Comercial,Vendedor,2024-02-05,,3400,Maua,Ativo,3
+7,Rafael Santos,Logistica,Assistente de Logistica,2022-07-11,,2900,Santo Andre,Ativo,4
+8,Juliana Mendes,Financeiro,Assistente Financeiro,2023-06-19,,3200,Sao Paulo,Ativo,4
+9,Gabriel Oliveira,Tecnologia,Desenvolvedor,2020-09-08,2024-12-18,6800,Sao Paulo,Desligado,5
+10,Camila Ferreira,RH,Assistente de RH,2024-04-15,,3000,Maua,Ativo,4
+11,Pedro Ribeiro,Comercial,Supervisor Comercial,2019-10-21,,5900,Santo Andre,Ativo,5
+12,Beatriz Almeida,Marketing,Analista de Marketing,2022-12-01,,4300,Sao Paulo,Ativo,4
+13,Diego Nunes,Logistica,Analista de Logistica,2021-03-17,2025-07-30,4100,Maua,Desligado,3
+14,Patricia Gomes,Financeiro,Analista Financeiro,2020-01-13,,5000,Sao Bernardo,Ativo,5
+15,Thiago Barros,Tecnologia,Analista de Sistemas,2023-08-07,,5600,Santo Andre,Ativo,4
+16,Renata Dias,Marketing,Assistente de Marketing,2024-06-03,,3100,Maua,Ativo,3
+17,Leonardo Castro,Comercial,Vendedor,2022-09-12,2025-05-16,3600,Sao Paulo,Desligado,2
+18,Amanda Freitas,RH,Analista de RH,2021-04-26,,4500,Santo Andre,Ativo,5
+19,Felipe Cardoso,Logistica,Assistente de Logistica,2023-11-06,,3000,Sao Bernardo,Ativo,3
+20,Leticia Moura,Tecnologia,Analista de Dados,2024-01-22,,5100,Maua,Ativo,4
+21,Matheus Teixeira,Financeiro,Assistente Financeiro,2024-07-08,,3300,Santo Andre,Ativo,3
+22,Isabela Moreira,Marketing,Analista de Marketing,2023-02-13,,4400,Sao Paulo,Ativo,5
+23,Henrique Ramos,Comercial,Vendedor,2021-06-28,2024-10-11,3700,Maua,Desligado,3
+24,Larissa Pinto,Logistica,Analista de Logistica,2022-05-09,,4200,Santo Andre,Ativo,4
+25,Vinicius Correia,Tecnologia,Desenvolvedor,2022-10-17,,6400,Sao Paulo,Ativo,5
+26,Carolina Lopes,RH,Assistente de RH,2023-09-04,,3100,Sao Bernardo,Ativo,4
+27,Daniel Araujo,Marketing,Assistente de Marketing,2024-03-18,2025-11-21,3200,Maua,Desligado,2
+28,Natalia Vieira,Financeiro,Analista Financeiro,2022-01-24,,4900,Sao Paulo,Ativo,4
+29,Marcelo Farias,Comercial,Supervisor Comercial,2020-08-03,,6100,Santo Andre,Ativo,5
+30,Priscila Campos,Logistica,Assistente de Logistica,2024-05-27,,2950,Maua,Ativo,4

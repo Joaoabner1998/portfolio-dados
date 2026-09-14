@@ -1,0 +1,31 @@
+INSERT INTO funcionarios
+(id, nome, departamento, cargo, data_admissao, data_desligamento, salario, cidade, status, avaliacao_desempenho)
+VALUES
+(1,'Ana Souza','Tecnologia','Analista de Dados','2022-03-14',NULL,5200,'Sao Paulo','Ativo',4),
+(2,'Carlos Lima','Comercial','Vendedor','2021-08-10',NULL,3500,'Maua','Ativo',4),
+(3,'Bruno Alves','Financeiro','Analista Financeiro','2020-05-20','2025-02-10',4800,'Santo Andre','Desligado',3),
+(4,'Mariana Costa','RH','Analista de RH','2023-01-09',NULL,4200,'Sao Paulo','Ativo',5),
+(5,'Lucas Martins','Tecnologia','Desenvolvedor','2021-11-16',NULL,6500,'Sao Bernardo','Ativo',4),
+(6,'Fernanda Rocha','Comercial','Vendedor','2024-02-05',NULL,3400,'Maua','Ativo',3),
+(7,'Rafael Santos','Logistica','Assistente de Logistica','2022-07-11',NULL,2900,'Santo Andre','Ativo',4),
+(8,'Juliana Mendes','Financeiro','Assistente Financeiro','2023-06-19',NULL,3200,'Sao Paulo','Ativo',4),
+(9,'Gabriel Oliveira','Tecnologia','Desenvolvedor','2020-09-08','2024-12-18',6800,'Sao Paulo','Desligado',5),
+(10,'Camila Ferreira','RH','Assistente de RH','2024-04-15',NULL,3000,'Maua','Ativo',4),
+(11,'Pedro Ribeiro','Comercial','Supervisor Comercial','2019-10-21',NULL,5900,'Santo Andre','Ativo',5),
+(12,'Beatriz Almeida','Marketing','Analista de Marketing','2022-12-01',NULL,4300,'Sao Paulo','Ativo',4),
+(13,'Diego Nunes','Logistica','Analista de Logistica','2021-03-17','2025-07-30',4100,'Maua','Desligado',3),
+(14,'Patricia Gomes','Financeiro','Analista Financeiro','2020-01-13',NULL,5000,'Sao Bernardo','Ativo',5),
+(15,'Thiago Barros','Tecnologia','Analista de Sistemas','2023-08-07',NULL,5600,'Santo Andre','Ativo',4),
+(16,'Renata Dias','Marketing','Assistente de Marketing','2024-06-03',NULL,3100,'Maua','Ativo',3),
+(17,'Leonardo Castro','Comercial','Vendedor','2022-09-12','2025-05-16',3600,'Sao Paulo','Desligado',2),
+(18,'Amanda Freitas','RH','Analista de RH','2021-04-26',NULL,4500,'Santo Andre','Ativo',5),
+(19,'Felipe Cardoso','Logistica','Assistente de Logistica','2023-11-06',NULL,3000,'Sao Bernardo','Ativo',3),
+(20,'Leticia Moura','Tecnologia','Analista de Dados','2024-01-22',NULL,5100,'Maua','Ativo',4),
+(21,'Matheus Tei
+to','Logistica','Analista de Logistica','2022-05-09',NULL,4200,'Santo Andre','Ativo',4),
+(25,'Vinicius Correia','Tecnologia','Desenvolvedor','2022-10-17',NULL,6400,'Sao Paulo','Ativo',5),
+(26,'Carolina Lopes','RH','Assistente de RH','2023-09-04',NULL,3100,'Sao Bernardo','Ativo',4),
+(27,'Daniel Araujo','Marketing','Assistente de Marketing','2024-03-18','2025-11-21',3200,'Maua','Desligado',2),
+(28,'Natalia Vieira','Financeiro','Analista Financeiro','2022-01-24',NULL,4900,'Sao Paulo','Ativo',4),
+(29,'Marcelo Farias','Comercial','Supervisor Comercial','2020-08-03',NULL,6100,'Santo Andre','Ativo',5),
+(30,'Priscila Campos','Logistica','Assistente de Logistica','2024-05-27',NULL,2950,'Maua','Ativo',4);
