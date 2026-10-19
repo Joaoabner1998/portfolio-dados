@@ -1,0 +1,6 @@
+Fornecedor,Cidade,Distancia_Km,Politica_Ambiental,Embalagem_Reciclavel,Certificacao_Ambiental
+Rodas Alpha,Sao Paulo,25,Sim,Sim,Sim
+Distribuidora Beta,Campinas,110,Nao,Sim,Nao
+Rodas Premium,Santo Andre,12,Sim,Sim,Sim
+Auto Parts Center,Guarulhos,42,Sim,Nao,Nao
+Rodas Brasil,Sao Bernardo,18,Sim,Sim,Sim
