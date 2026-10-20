@@ -68,6 +68,23 @@ Por utilizar dados fictícios, os resultados representam um cenário simulado e 
 - Visualização de dados com Power BI.
 - Organização e documentação de projetos.
 
+## 📊 Dashboard — Loja Guga Rodas Sustentável
+
+O dashboard foi desenvolvido no Power BI para apresentar indicadores de desempenho comercial e sustentabilidade, utilizando dados fictícios.
+
+### Indicadores apresentados
+- Faturamento total
+- Quantidade vendida
+- Ticket médio
+- Taxa de reciclagem
+- Valor recuperado
+
+### Visualização do dashboard
+
+![Dashboard Loja Guga Rodas Sustentável](imagens/dashboard_powerbi.png)
+
+O painel permite visualizar indicadores comerciais e ambientais, auxiliando na análise de resultados e na tomada de decisões em um cenário simulado.
+
 ## 👨‍💻 Autor
 
 João Abner
