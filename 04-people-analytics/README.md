@@ -181,6 +181,74 @@ Com este projeto pratiquei:
 - construção de dashboard interativo;
 - interpretação de indicadores de People Analytics.
 
+
+## 📊 Dashboard — People Analytics
+
+O dashboard foi desenvolvido no Power BI para apresentar indicadores de Recursos Humanos, utilizando uma base fictícia de 30 funcionários.
+
+### Indicadores analisados
+
+- Total de funcionários.
+- Funcionários ativos e desligados.
+- Salário médio por departamento.
+- Quantidade de funcionários por departamento.
+- Média das avaliações de desempenho.
+
+### Visualização do dashboard
+
+![Dashboard People Analytics](imagens/dashboard_people_analytics.png)
+
+## 🔎 Análises realizadas
+
+O projeto utiliza Python, SQL e Power BI para explorar informações relacionadas à gestão de pessoas.
+
+As análises permitem comparar departamentos, acompanhar indicadores de desempenho e compreender a distribuição salarial em um cenário simulado.
+
+## 💻 Competências demonstradas
+
+- Análise de dados com Python.
+- Manipulação de dados com Pandas.
+- Consultas em SQL.
+- Construção de indicadores (KPIs).
+- Visualização de dados no Power BI.
+- Organização e documentação de projetos.
+
+**Observação:** Os dados utilizados são fictícios e destinados exclusivamente ao aprendizado e à demonstração de competências técnicas.
+
+
+## 📊 Dashboard — People Analytics
+
+O dashboard foi desenvolvido no Power BI para apresentar indicadores de Recursos Humanos, utilizando uma base fictícia de 30 funcionários.
+
+### Indicadores analisados
+
+- Total de funcionários.
+- Funcionários ativos e desligados.
+- Salário médio por departamento.
+- Quantidade de funcionários por departamento.
+- Média das avaliações de desempenho.
+
+### Visualização do dashboard
+
+![Dashboard People Analytics](imagens/dashboard_people_analytics.png)
+
+## 🔎 Análises realizadas
+
+O projeto utiliza Python, SQL e Power BI para explorar informações relacionadas à gestão de pessoas.
+
+As análises permitem comparar departamentos, acompanhar indicadores de desempenho e compreender a distribuição salarial em um cenário simulado.
+
+## 💻 Competências demonstradas
+
+- Análise de dados com Python.
+- Manipulação de dados com Pandas.
+- Consultas em SQL.
+- Construção de indicadores (KPIs).
+- Visualização de dados no Power BI.
+- Organização e documentação de projetos.
+
+**Observação:** Os dados utilizados são fictícios e destinados exclusivamente ao aprendizado e à demonstração de competências técnicas.
+
 ---
 
 ## 👤 Autor
