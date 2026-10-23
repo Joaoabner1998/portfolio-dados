@@ -53,7 +53,7 @@ Busco minha primeira oportunidade na área de tecnologia, especialmente em posi�
 ## 📫 Contato
 
 - **GitHub:** https://github.com/Joaoabner1998
-- **LinkedIn:** https://www.linkedin.com/in/jo%C3%A3o-abner-silveira-5420b22b3/?isSelfProfile=true
+- **LinkedIn:** [https://www.linkedin.com/in/jo%C3%A3o-abner-silveira-5420b22b3/?isSelfProfile=true](https://www.linkedin.com/in/jo%C3%A3o-abner-silveira-70356618b/)
 
 ---
 
